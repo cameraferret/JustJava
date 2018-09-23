@@ -4,4 +4,5 @@
     <string name="quantity">Quantity</string>
     <string name="zero">0</string>
     <string name="order">Order</string>
+    <string name="cost">$0</string>
 </resources>
